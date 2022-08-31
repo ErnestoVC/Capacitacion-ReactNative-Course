@@ -12,7 +12,7 @@ export const App = () => {
   return (
     <SafeAreaView style={{
       flex: 1,
-      backgroundColor: '#28425B'
+      //backgroundColor: '#28425B'
     }}>
       {/*<HolaMundoScreen />*/}
       {/* {<ContadorScreen />} */}
